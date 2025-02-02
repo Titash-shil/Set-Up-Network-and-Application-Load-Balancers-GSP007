@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Redacting-Critical-Data-with-Sensitive-Data-Protection-GSP864/refs/heads/main/qwiklab_explorers_gsp864.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Set-Up-Network-and-Application-Load-Balancers-GSP007/refs/heads/main/qwiklab_explorers_gsp007.sh
 
-sudo chmod +x qwiklab_explorers_gsp864.sh
+sudo chmod +x qwiklab_explorers_gsp007.sh
 
-./qwiklab_explorers_gsp864.sh
+./qwiklab_explorers_gsp007.sh
 ```
 
 ---
